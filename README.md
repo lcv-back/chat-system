@@ -22,7 +22,7 @@ To clone this application, follow these steps:
    cd chat-system
    ```
 
-### Frontend Setup (React)
+### Frontend Setup (ReactJS)
 
 1. Change into the frontend project directory:
 
@@ -42,7 +42,7 @@ To clone this application, follow these steps:
    npm start
    ```
 
-### Backend Setup (Go)
+### Backend Setup (Golang)
 
 1. Navigate to the backend folder:
 
